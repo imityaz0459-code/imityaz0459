@@ -52,7 +52,7 @@
 
 ### 🚀 Featured Projects
 
-- 🛒 **[Amazon Clone](https://github.com/imityaz0459-code/amazon-clone)** — Responsive front-end clone built with HTML5 & CSS3
+- 🛒 **[Amazon Clone](https://github.com/imityaz0459/amazon-clone)** — Responsive front-end clone built with HTML5 & CSS3
 - 🎯 **Goal & Habit Tracker Dashboard** — Vanilla JS + Chart.js, glassmorphism UI
 - 🎨 **Isometric Room Illustration** — Pure CSS art with day/night toggle
 
