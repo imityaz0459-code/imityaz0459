@@ -83,7 +83,7 @@
 
 | Project | Description |
 |----------|-------------|
-| <a href"https://github.com/imityaz0460-code/Amazon-Clone">🛒 **Amazon Clone** | Responsive Amazon homepage clone built using HTML & CSS</a> |
+| 🛒 **Amazon Clone** | Responsive Amazon homepage clone built using HTML & CSS |
 | 🎯 **Goal & Habit Tracker Dashboard** | JavaScript dashboard with charts and local storage |
 | 🎨 **CSS Isometric Room** | Pure CSS artwork with Day/Night mode |
 | 🌐 **Portfolio Website** | Personal portfolio showcasing my projects *(Coming Soon)* |
